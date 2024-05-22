@@ -1,3 +1,4 @@
+package edu.jailson.variaveis;
 /**
  * TiposVariaveis
  */

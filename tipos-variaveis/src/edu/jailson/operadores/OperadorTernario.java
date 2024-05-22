@@ -1,3 +1,4 @@
+package edu.jailson.operadores;
 public class OperadorTernario {
     // Operador Ternario
     // <lógica> ? verdade : falso

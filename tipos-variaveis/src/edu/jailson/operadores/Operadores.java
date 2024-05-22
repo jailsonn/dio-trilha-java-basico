@@ -1,3 +1,4 @@
+package edu.jailson.operadores;
 public class Operadores {
     // OPERADORES ARITMETICOS
     // + Adição E (Concatenação)

@@ -1,3 +1,4 @@
+package edu.jailson.operadores;
 public class OperadoresLogicos {
     // Operadores lógicos
     // (e, End, &&) Todos os valores precisam serem verdadeiros
