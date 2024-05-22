@@ -6,7 +6,9 @@ public class AnatomiaClasses {
     // As classes devem ser organizadas em um pacote, estrutura.
 
 
-
+    // Uma classe é definida por:
+    // Atributo -> variáveis /Caracteristicas
+    // Métodos -> ação / funções
 
 
 

@@ -4,6 +4,8 @@ package edu.jailson.variaveis;
  */
 public class TiposVariaveis {
 
+     // Variável ou Atributo / caracteristicas
+     
      // Java é fortimente tipado
 
     //  isso é diferente de 2.5 e 2500
