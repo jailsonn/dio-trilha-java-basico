@@ -17,6 +17,6 @@ public class App {
         float pi = 3.14F;
         double salario = 1275.33;
 
-        System.out.println();
+        System.out.println(nome);
     }
 }
